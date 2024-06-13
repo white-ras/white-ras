@@ -1,4 +1,4 @@
-Golang勉強中です。
+JavaScript,TypeScript,React,Next.js,Node.js,Goあたりを深めています。
 
 [![ほえほえの GitHub stats](https://github-readme-stats.vercel.app/api?username=white-ras&theme=vue-dark&show_icons=true)](https://github.com/white-ras/github-readme-stats)
 
